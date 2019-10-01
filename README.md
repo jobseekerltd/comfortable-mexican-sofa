@@ -1,3 +1,13 @@
+## Deprecation notice (Jora)
+
+The changes in this repo was moved to `jobengine` in this PR: https://github.com/jobseekerltd/jobengine/pull/3804
+
+This repository is now archived and no longer in use.
+
+----
+
+<br><br><br><br><br><br><br>
+
 # ComfortableMexicanSofa
 
 ComfortableMexicanSofa is a powerful Ruby on Rails 5.2+ CMS (Content Management System) Engine
